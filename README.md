@@ -7,4 +7,4 @@
 3. 將N個數目字切成k份,並由K個Processes分別進行Bubble Sort之後,再由k-1個Processes作Merge Sort,同時顯示CPU執行之時間。  
 4. 將N個數目字切成k份,並由K個Processes分別進行Bubble Sort之後,再由k-1個Processes作Merge Sort,同時顯示CPU執行之時間。  
 
-完成後，寫成
+完成後，寫成檔案，報告各項結果以及差異。  
